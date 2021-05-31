@@ -63,3 +63,11 @@ g – turn on or off positional lighting.
 ## preview:
 
 ![ScreenShot](https://github.com/JacobHN/opengl_scene/blob/master/a4%20pictures/assignment4pic1.JPG)
+
+![ScreenShot](https://github.com/JacobHN/opengl_scene/blob/master/a4%20pictures/assignment4pic2.JPG)
+
+![ScreenShot](https://github.com/JacobHN/opengl_scene/blob/master/a4%20pictures/assignment4pic3.JPG)
+
+![ScreenShot](https://github.com/JacobHN/opengl_scene/blob/master/a4%20pictures/assignment4pic4.JPG)
+
+![ScreenShot](https://github.com/JacobHN/opengl_scene/blob/master/a4%20pictures/assignment4pic5.JPG)
