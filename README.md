@@ -43,3 +43,4 @@ scroll wheel – moves the light in the z axis where scroll up is negative z axi
 
 g – turn on or off positional lighting. 
 
+![Alt text](/https://github.com/JacobHN/opengl_scene/blob/master/a4%20pictures/assignment4pic1.JPG?raw=true "Optional Title")
