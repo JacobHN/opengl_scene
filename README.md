@@ -16,6 +16,10 @@ SkyBox texture was obtained from:
 
 Gordon, V. Scott; Clevenger, John. Computer Graphics Programming in OpenGL with JAVA Second Edition. Mercury Learning and Information.
 
+3d texture implementation for wood obtained from:
+
+Gordon, V. Scott; Clevenger, John. Computer Graphics Programming in OpenGL with JAVA Second Edition. Mercury Learning and Information.
+
 
 Controls:
 
