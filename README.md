@@ -2,12 +2,19 @@
 
 Scene created in OpenGL based on Gordon's book Computer Graphics Programming in OpenGL with JAVA Second Edition. 
 
+requires JOGL installation:
+https://jogamp.org/
+
+requires JOML installation:
+https://github.com/JOML-CI/JOML
+
 All objects were made by me in blender.
 
 All object textures were made by me in blender and edited in photoshop.
 
 SkyBox texture was obtained from:
 Gordon, V. Scott; Clevenger, John. Computer Graphics Programming in OpenGL with JAVA Second Edition. Mercury Learning and Information.
+
 
 Controls:
 
@@ -43,4 +50,4 @@ scroll wheel – moves the light in the z axis where scroll up is negative z axi
 
 g – turn on or off positional lighting. 
 
-![Alt text](/https://github.com/JacobHN/opengl_scene/blob/master/a4%20pictures/assignment4pic1.JPG?raw=true "Optional Title")
+![ScreenShot](https://github.com/JacobHN/opengl_scene/blob/master/a4%20pictures/assignment4pic1.JPG)
