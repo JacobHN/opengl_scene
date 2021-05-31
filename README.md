@@ -1,6 +1,6 @@
 # opengl_scene
 
-Scene created in OpenGL based Computer Graphics Programming in OpenGL with JAVA Second Edition. 
+Scene created in OpenGL based from Computer Graphics Programming in OpenGL with JAVA Second Edition. 
 
 requires JOGL installation:
 https://jogamp.org/
