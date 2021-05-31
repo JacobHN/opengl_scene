@@ -43,9 +43,9 @@ space bar- show/hide axis
 
 
 The light controls are not linked to the camera i.e. the movement of the light will always be the 
-same no matter what angle the user is looking at. (make sure to have clicked on the window before dragging)
+same no matter what angle the user is looking at. (make sure to have clicked on the window before dragging).
 
-mouse drag (click and hold)– moves the light in the x y axis. up and down for y axis and left to right 
+mouse drag (click and hold)– moves the light in the x y axis. up and down for y axis and left to right for x axis.
 
 scroll wheel – moves the light in the z axis where scroll up is negative z axis and scroll down is positive z axis. 
 
